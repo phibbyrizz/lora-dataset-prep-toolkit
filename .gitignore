@@ -1,0 +1,15 @@
+.venv/
+.prep_venv/
+__pycache__/
+*.pyc
+_pipeline_output/
+*_BUILDING/
+*_dataset/
+*.zip
+*.onnx
+.DS_Store
+Thumbs.db
+
+face_detection_yunet_2023mar.onnx
+INSTALLED_VERSIONS.txt
+*.download

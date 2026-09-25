@@ -1,0 +1,7 @@
+accelerate>=1,<2
+bitsandbytes>=0.43,<1
+huggingface_hub>=0.25,<2
+numpy>=1.26,<3
+opencv-python>=4.8,<5
+Pillow>=10,<13
+transformers>=4.45,<5
